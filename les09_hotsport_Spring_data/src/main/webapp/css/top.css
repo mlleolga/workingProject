@@ -1,0 +1,61 @@
+
+
+.h_Top {
+    width: 1100px;
+    height: 50px;
+    background: #363c48;
+    margin-right: 20px;
+    /* margin-left: 20px; */
+    /* margin-top: 40px; */
+    border-radius: 10px;
+}
+
+#hid3>a{
+	 color: white;
+    text-decoration: none;
+}
+#hid4{
+	width: 30px;
+}
+.hucLeft {
+    width: 50px;
+    float: left;
+}
+
+.hucCenter {
+    /* background: yellow; */
+    width: 50px;
+    float: left;
+}
+.hucRight {
+    width: 900px;
+    float: right;
+}
+
+.mRight {
+    /* background: green; */
+    margin: 0 0;
+    height: 50px;
+     color: white;
+    text-decoration: none;
+}
+.mRight li:first-child {
+    margin-left: 50px;
+}
+.mRight>li {
+	float: right;
+    padding: 3px;
+    margin-right: 5px;
+    margin-left: 15px;
+    display: inline-block;
+    margin-top: 12px;
+    color: white;
+	text-decoration: none;
+}
+
+.mRight>li>a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    transition: 50ms;
+}
